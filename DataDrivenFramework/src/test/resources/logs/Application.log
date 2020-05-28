@@ -1,0 +1,13 @@
+24/05/2020 23:28:23 devpinoyLogger Config properties file loaded
+24/05/2020 23:28:23 devpinoyLogger OR properties file loaded
+24/05/2020 23:28:30 devpinoyLogger Chrome Launched !!!
+24/05/2020 23:28:34 devpinoyLogger Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+24/05/2020 23:28:36 devpinoyLogger DB Connection established !!!
+24/05/2020 23:28:36 devpinoyLogger Clicking on an Element : bmlBtn_CSS
+24/05/2020 23:28:36 devpinoyLogger Finding an Element : addCustomerBtn_CSS
+24/05/2020 23:28:36 devpinoyLogger Clicking on an Element : addCustomerBtn_CSS
+24/05/2020 23:28:37 devpinoyLogger Typing in an Element : firstName_CSS  entered the value as : Raman
+24/05/2020 23:28:37 devpinoyLogger Typing in an Element : lastName_CSS  entered the value as : Arora
+24/05/2020 23:28:38 devpinoyLogger Typing in an Element : postCode_CSS  entered the value as : A234234
+24/05/2020 23:28:38 devpinoyLogger Clicking on an Element : addCust_CSS
+24/05/2020 23:28:39 devpinoyLogger Test execution completed !!!
